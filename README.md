@@ -1,0 +1,2 @@
+# STimer
+Simple timer
